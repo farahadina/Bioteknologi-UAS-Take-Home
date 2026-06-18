@@ -1,6 +1,6 @@
-README.md
-Q2C – Dynamic Simulation of a Metabolic Pathway Using ODEs
-Overview
+## README.md
+## Q2C – Dynamic Simulation of a Metabolic Pathway Using ODEs
+## Overview
 
 Proyek ini mensimulasikan dinamika suatu jalur metabolik sederhana menggunakan Ordinary Differential Equations (ODEs). Model menggambarkan konversi substrat menjadi produk melalui beberapa metabolit antara serta mempertimbangkan mekanisme feedback inhibition non-competitive oleh produk akhir.
 
