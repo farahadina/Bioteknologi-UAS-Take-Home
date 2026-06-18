@@ -1,10 +1,4 @@
-# Bioteknologi-UAS-Take-Home
-
-Berikut README yang bisa kamu taruh di repository/folder tugas **Q2C – Kinetic Modeling Simulation with Feedback Inhibition**.
-
-# README.md
-
-## Q2C – Dynamic Simulation of a Metabolic Pathway Using ODEs
+## Dynamic Simulation of a Metabolic Pathway Using ODEs
 
 ### Overview
 
